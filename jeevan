@@ -1,0 +1,21 @@
+import time
+start=time.time()
+import collectiom
+single_linked_list=collection.deque()
+single_linkes_list.append('30')
+single_linked_list.append('26')
+single_linked_list.append('34')
+single_linked_list.append('23')
+print("element of the single linked list is:\n",single_linked_list)
+
+single_linked_list.insert(51,'25')
+print("after adding an element at begning:\n",single_linked_list)
+single_linkes_list.insert(25,'58')
+print("after adding an element at midle:\n",single_linked_list)
+single_linked_list.insert(25.'56')
+print("after adding an element at the end:\n",single_linked_list)
+single_linked_list.remove(12,'56')
+print("after removing an element at begning:\n",single_linked_list)
+single_linked_list.remove(25,'41')
+print("after removing an element at midle:\n",single_linked_list)
+single_linked_list.remove(25,'25')
